@@ -47,6 +47,17 @@ Here you’ll find:
 
 
 ---
+## 🎀 Features
+
+-  **Custom Pixel Canvas Animations** – Floating cosmic stars built from scratch (no libraries)
+-  **Framer Motion Smooth Animations** – Elegant scroll-reveals, hover effects, and entry transitions
+-  **Modular Component Structure** – Pages, Cards, Sections all beautifully reusable 
+-  **Responsive and Mobile Friendly** – Looks good across different screen sizes (Still needs working on!!) 
+-  **Custom Theming** – Soft dark cosmic color palettes with pastel neon highlights
+-  **Social Media Integrations** – LinkedIn, Discord, Medium, Spotify, GitHub
+-  **100% Handcoded** – No templates, no drag-drop, built line-by-line with love 
+
+---
 
 ## 🩵 [Visit Esoteric Daughter →](https://esotericdaughter.vercel.app/)
 
