@@ -65,8 +65,12 @@ export default function Home() {
         <meta name="description" content="A sanctuary for cosmic hearts and secret dreams." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap" rel="stylesheet"></link>
         <link rel="icon" href="/draft.png" />
       </Head>
+      <div className={styles.signature}>
+       SS.
+      </div>
 
       <div className={styles.container}>
         {/* ✨ Canvas Stars */}
@@ -77,14 +81,15 @@ export default function Home() {
           <div className={styles.titleSection}>
             <h1 className={styles.title}>Esoteric</h1>
             <h2 className={styles.subtitle}>daughter.</h2>
+            
           </div>
 
           <div className={styles.ghostContainer}>
             <Image
-              src="/draft.png"
+              src="/me.png"
               alt="Ghost Astronaut Mascot"
-              width={300}
-              height={300}
+              width={500}
+              height={500}
               className={styles.ghost}
               priority
             />
@@ -93,9 +98,13 @@ export default function Home() {
 
         {/* 🚀 Navbar */}
         <nav className={styles.navbar}>
-          <a href="#about" onClick={(e) => smoothScroll(e, "about")}>ABOUT</a>
-          <a href="#blogs" onClick={(e) => smoothScroll(e, "blogs")}>BLOGS</a>
-        </nav>
+         <a href="#about" onClick={(e) => smoothScroll(e, "about")} className={styles.navButton}>
+           ABOUT
+        </a>
+        <a href="#blogs" onClick={(e) => smoothScroll(e, "blogs")} className={styles.navButton}>
+          BLOGS
+        </a>
+       </nav>
 
         {/* 🌸 Imported Sections */}
         <About />

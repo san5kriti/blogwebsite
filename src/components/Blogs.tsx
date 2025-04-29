@@ -53,7 +53,7 @@ export default function Blogs() {
         viewport={{ once: true }}
         className={styles.innerContent}
       >
-        <h1 className={styles.heading}>Blogs ✨</h1>
+        <h1 className={styles.heading}>Blogs ☄︎₊˚⊹</h1>
 
         <div className={styles.blogGrid}>
           {/* ✨ Blog Cards */}

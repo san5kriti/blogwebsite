@@ -26,27 +26,31 @@
 }
 
 .navbar {
-  width: 100%;
   display: flex;
-  justify-content: center;
-  gap: 3rem;
-  margin-top: 2rem;
-  margin-bottom: 4rem;
-  position: relative;
-  z-index: 2;
+  gap: 1.5rem;
+  margin-top: 3rem;
+  justify-content: flex-start;
+  margin-right: 39rem;
+  position: relative; /* ⭐️ important */
+  z-index: 3; /* ⭐️ important: above the canvas and main */
 }
 
-.navbar a {
-  color: #de7fa1;
-  font-weight: bold;
+.navButton {
+  padding: 0.6rem 1.2rem;
+  border: 1px solid #de7fa1; /* pinkish outline */
+  border-radius: 9999px; /* makes it oval!! */
   text-decoration: none;
-  font-size: 1.2rem;
-  letter-spacing: 0.15rem;
-  transition: color 0.3s ease;
+  color: #de7fa1;
+  font-family: 'Outfit', sans-serif;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
 }
 
-.navbar a:hover {
-  color: #a5c9ea; /* pastel mist blue */
+.navButton:hover {
+  background-color: #de7fa1;
+  color: #0a0616; /* dark bg color */
+  cursor: pointer;
 }
 
 .main {
@@ -72,11 +76,12 @@
 }
 
 .subtitle {
-  font-family: 'Verdana', sans-serif;
-  color: #f99b7c;
+  font-family: 'Press Start 2P', cursive;
+  color: #ef80b8;
   font-size: 3rem;
   margin-top: 1rem;
 }
+
 
 .ghostContainer {
   display: flex;
@@ -87,7 +92,7 @@
 }
 
 .ghost {
-  width: 220px;
+  width: 350px;
   height: auto;
   animation: float 4s ease-in-out infinite;
   transition: transform 0.4s ease;
@@ -133,4 +138,22 @@
   line-height: 1.9;
   color: #e0c080; /* golden cosmic text */
   font-family: 'Verdana', sans-serif;
+}
+.signature {
+  position: fixed;
+  top: 1.5rem;
+  left: 2rem;
+  z-index: 100;
+  font-family: 'Press Start 2P', cursive; /* OR whatever font you want */
+  font-size: 1rem;
+  color: #de7fa1; /* match your pinkish theme */
+  letter-spacing: 2px;
+  text-decoration: none;
+  opacity: 0.85;
+  transition: opacity 0.3s ease;
+}
+
+.signature:hover {
+  opacity: 1;
+  cursor: pointer;
 }
