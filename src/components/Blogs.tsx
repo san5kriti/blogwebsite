@@ -57,9 +57,7 @@ export default function Blogs() {
 
         <div className={styles.blogGrid}>
           {/* ✨ Blog Cards */}
-          <div className={styles.blogGrid}>
-             <IntroductionCard />
-          </div>
+          <IntroductionCard />
 
           <div className={styles.blogCard}>
             <h2 className={styles.blogTitle}>Meta-Hybrid Quantum Optimization</h2>
@@ -69,7 +67,6 @@ export default function Blogs() {
             <Link href="/blogs/blog2" className={styles.readMore}>read more →</Link>
           </div>
         </div>
-        
       </motion.div>
     </section>
   );

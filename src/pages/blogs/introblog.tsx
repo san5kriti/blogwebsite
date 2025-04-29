@@ -3,7 +3,7 @@ import { useEffect } from "react";
 import styles from "@/styles/blogsstyles/introblog.module.css";
 import Link from "next/link";
 import Image from "next/image";
-import { FaLinkedin, FaDiscord, FaMedium, FaSpotify, FaCoffee, FaGithub, FaChrome, FaBook } from "react-icons/fa";
+import { FaLinkedin, FaDiscord, FaMedium, FaSpotify, FaCoffee, FaGithub, FaChrome } from "react-icons/fa";
 
 export default function IntroBlog() {
   useEffect(() => {
@@ -29,6 +29,7 @@ export default function IntroBlog() {
     }));
 
     function animate() {
+      if (!ctx) return; // ✅ very important
       ctx.clearRect(0, 0, canvas.width, canvas.height);
       stars.forEach((star) => {
         ctx.beginPath();
@@ -60,8 +61,8 @@ export default function IntroBlog() {
         {/* left side (text) */}
         <div className={styles.textContent}>
           <Link href="/#blogs" className={styles.backLink}>← back to blogs</Link>
-          <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet"></link>
-          <h1 className={styles.blogTitle}>Lore Dump </h1>
+
+          <h1 className={styles.blogTitle}>Lore Dump</h1>
 
           <p>
             Hey, I'm <span className={styles.highlight}>Sanskriti</span>. I like cats, existentialism, and coffee.  
@@ -100,10 +101,9 @@ export default function IntroBlog() {
           </p>
         </div>
 
-        {/* right side (cat, socials, favourites) */}
+        {/* right side */}
         <div className={styles.imageWrapper}>
           <div className={styles.catAndButtons}>
-            {/* 🐱 Cat */}
             <Image
               src="/catto.png"
               alt="cat"
@@ -125,18 +125,17 @@ export default function IntroBlog() {
 
             {/* ✨ Favourites Section */}
             <div className={styles.favouritesSection}>
-              <h2 className={styles.favouritesTitle}> Favourites</h2>
+              <h2 className={styles.favouritesTitle}>Favourites</h2>
               <ul className={styles.favouritesList}>
-                <li><b> 🔖 Book:</b> The Secret History by Donna Tartt</li>
-                <li><b> 💗 Movie:</b> Interstellar </li>
-                <li><b> 🧬 Theory:</b> Many Worlds Interpretation (Quantum Physics)</li>
-                <li><b> 🎀 Song:</b> Crush - Ethel Cain</li>
-                <li><b> 🪐 Concept:</b> Sonder</li>
+                <li><b>🔖 Book:</b> The Secret History by Donna Tartt</li>
+                <li><b>💗 Movie:</b> Interstellar</li>
+                <li><b>🧬 Theory:</b> Many Worlds Interpretation (Quantum Physics)</li>
+                <li><b>🎀 Song:</b> Crush - Ethel Cain</li>
+                <li><b>🪐 Concept:</b> Sonder</li>
               </ul>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   );

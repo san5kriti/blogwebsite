@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 import { useEffect, useRef } from "react";
 
 export default function About() {
-  const canvasRef = useRef<HTMLCanvasElement | null>(null);  // ⬅ inside About()
+  const canvasRef = useRef<HTMLCanvasElement | null>(null);
 
   useEffect(() => {
     const canvas = document.getElementById('aboutStarCanvas') as HTMLCanvasElement;
@@ -27,7 +27,7 @@ export default function About() {
     }));
 
     function animate() {
-      if (!ctx) return;
+      if (!ctx) return; // 🪄 THIS was missing before
       ctx.clearRect(0, 0, canvas.width, canvas.height);
       stars.forEach((star) => {
         ctx.beginPath();
@@ -43,6 +43,14 @@ export default function About() {
     }
 
     animate();
+
+    // 💡 Bonus: cleanup if you want, but optional
+    return () => {
+      if (canvas) {
+        const ctx = canvas.getContext('2d');
+        ctx?.clearRect(0, 0, canvas.width, canvas.height);
+      }
+    };
   }, []);
 
   return (
