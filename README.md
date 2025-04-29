@@ -86,14 +86,14 @@ However, **please do not directly copy or replicate** my personal blog content, 
 ## 🌸 Motivation Behind Esoteric Daughter
 
 Hey, I'm **Sanskriti Shelke** — a caffeine-fueled creative who loves cats, existential philosophy, AI models, pixel art, mythology, and building dreamy side projects at 4AM.  
-**Esoteric Daughter** is my tiny corner of the internet where reality is optional, imagination is law, and metaphysical chaos is celebrated. 🌌
+**Esoteric Daughter** is my tiny corner of the internet where reality is optional, imagination is law, and metaphysical chaos is celebrated. 
 
-The internet is filled with perfect templates — but none of them ever truly *felt* like me.  
+The internet is filled with perfect templates  but none of them ever truly *felt* like me.  
 I wanted a space that wasn't sterile, soulless, or corporate:  
 A pixelated, metaphysical constellation where **philosophy meets code**, **chaos meets creativity**, and **dreamers feel seen**.
 
-Thus, **Esoteric Daughter** was born — an ode to beautiful absurdity, to caffeinated 2AM ramblings, and to the cosmic chaos we all secretly hold inside.
-> "Reality is negotiable. Coffee is not." ☕
+Thus, **Esoteric Daughter** was born, an ode to beautiful absurdity, to caffeinated 2AM ramblings, and to the cosmic chaos we all secretly hold inside.
+
 ---
 
 ## 🌷 Connect With Me
