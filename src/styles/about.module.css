@@ -1,0 +1,85 @@
+/* src/styles/about.module.css */
+
+.aboutContainer {
+  position: relative;
+  width: 100%;
+  background-color: #0a0616; /* match your main cosmic theme */
+  padding: 8rem 2rem 4rem 2rem; /* top-right-bottom-left */
+  overflow: hidden;
+}
+
+.starBackground {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0; /* particles go behind everything */
+  pointer-events: none;
+}
+
+.aboutFlex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  max-width: 1200px;
+  margin: 0 auto;
+  z-index: 1; /* content comes in front */
+  position: relative;
+  gap: 4rem;
+}
+
+.aboutText {
+  flex: 1;
+  text-align: left;
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #e7dfd8;
+  font-family: 'Verdana', sans-serif;
+}
+
+.aboutImages {
+  flex: 0.6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.5rem;
+  padding-top: 4rem; /* move images slightly lower */
+}
+
+.imageContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imageContainer img {
+  border-radius: 10px;
+}
+
+/* Text elements */
+.heading {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+  color: #de7fa1;
+  margin-bottom: 2rem;
+  margin-top: 5rem;
+}
+
+.description {
+  font-family: 'Verdana', sans-serif;
+  font-size: 1.1rem;
+  text-align: left;
+  margin-top: 1rem;
+}
+
+.highlight {
+  color: #db7093;
+  font-weight: bold;
+}
+
+.siteName {
+  color: #a5c9ea;
+  font-style: italic;
+}

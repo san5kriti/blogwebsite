@@ -1,0 +1,83 @@
+.blogsContainer {
+    margin-top: 0;
+    padding-top: 4rem;
+    padding-bottom: 8rem;
+    background-color: #0a0616;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    min-height: auto;
+  }
+  
+  .starBackground {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 0;
+  }
+  
+  .innerContent {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .heading {
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 2.5rem;
+    color: #de7fa1;
+    margin-bottom: 4rem;
+  }
+  
+  .blogGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+    width: 100%;
+  }
+  
+  .blogCard {
+    background-color: #1c1627;
+    border: 1px solid #de7fa1;
+    border-radius: 16px;
+    padding: 2rem;
+    transition: transform 0.3s ease;
+  }
+  
+  .blogCard:hover {
+    transform: translateY(-10px);
+  }
+  
+  .blogTitle {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1.4rem;
+    color: #f99b7c;
+    margin-bottom: 1rem;
+  }
+  
+  .blogSnippet {
+    font-family: 'Verdana', sans-serif;
+    color: #e7dfd8;
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .readMore {
+    font-family: 'Verdana', sans-serif;
+    color: #a5c9ea;
+    text-decoration: none;
+    font-size: 1rem;
+  }
+  
+  .readMore:hover {
+    color: #e0c080;
+  }

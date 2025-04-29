@@ -1,0 +1,32 @@
+.cardLink {
+    text-decoration: none;
+    color: inherit; /* so it doesn't become blue */
+    display: block;
+  }
+  
+  .blogCard {
+    background-color: #1c1627;
+    border: 1px solid #de7fa1;
+    border-radius: 16px;
+    padding: 2rem;
+    transition: transform 0.3s ease;
+  }
+  
+  .blogCard:hover {
+    transform: translateY(-10px);
+    border-color: #f99b7c;
+  }
+  
+  .blogTitle {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1.4rem;
+    color: #f99b7c;
+    margin-bottom: 1rem;
+  }
+  
+  .blogSnippet {
+    font-family: 'Verdana', sans-serif;
+    color: #e7dfd8;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
