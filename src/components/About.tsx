@@ -92,7 +92,7 @@ export default function About() {
               <Image src="/camus.png" alt="Camus" width={150} height={150} />
             </div>
             <div className={styles.imageContainer}>
-              <Image src="/nietzsche.png" alt="Nietzsche" width={150} height={150} />
+              <Image src="/Nietzsche.png" alt="Nietzsche" width={150} height={150} />
             </div>
           </div>
         </motion.div>
