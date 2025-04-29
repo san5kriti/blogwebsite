@@ -109,6 +109,7 @@ export default function Home() {
         {/* 🌸 Imported Sections */}
         <About />
         <Blogs />
+        <p className={styles.footerTiny}>© 2025 Sanskriti Shelke. All rights reserved.</p>
       </div>
     </>
   );
