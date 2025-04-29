@@ -50,17 +50,28 @@ src/
 ```
 ---
 
-## 📜 License
+## 💖 License & Usage
 
-This project is open for cosmic exploration and inspiration 🌙.  
-Please credit properly if you borrow large sections ✨.
+This project is open for creative inspiration!!
+You are welcome to **use the website structure or styling ideas** as a reference or a learning template.  
+However, **please do not directly copy or replicate** my personal blog content, writings, or brand identity.
 
----
-
-## 🌟 Creator
-
-Made with stardust and coffee by  
-**Sanskriti Shelke**  
-[🌐 Website](https://sanskritishelke.com/) ・ [💼 LinkedIn](https://linkedin.com/in/sanskritishelke) ・ [📝 Medium](https://medium.com/@san5kriti)
+>  **If you use this project as a template or inspiration, proper credit is required.**  
 
 ---
+
+## 🌸 Motivation Behind Esoteric Daughter
+
+Hey, I'm **Sanskriti Shelke** — a caffeine-fueled creative who loves cats, existential philosophy, AI models, pixel art, mythology, and building dreamy side projects at 4AM.  
+**Esoteric Daughter** is my tiny corner of the internet where reality is optional, imagination is law, and metaphysical chaos is celebrated. 🌌
+
+The internet is filled with perfect templates — but none of them ever truly *felt* like me.  
+I wanted a space that wasn't sterile, soulless, or corporate:  
+A pixelated, metaphysical constellation where **philosophy meets code**, **chaos meets creativity**, and **dreamers feel seen**.
+
+Thus, **Esoteric Daughter** was born — an ode to beautiful absurdity, to caffeinated 2AM ramblings, and to the cosmic chaos we all secretly hold inside.
+> "Reality is negotiable. Coffee is not." ☕
+---
+
+🔗 Connect with me:  
+[🌐 Website](https://sanskritishelke.com/) ・ [💼 LinkedIn](https://linkedin.com/in/sanskritishelke) ・ [📝 Medium](https://medium.com/@san5kriti) ・ [🎵 Spotify Podcast](https://open.spotify.com/show/5FbN4lYxZUKf6oTQiBFSe3)
