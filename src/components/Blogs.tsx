@@ -62,7 +62,7 @@ export default function Blogs() {
           <div className={styles.blogCard}>
             <h2 className={styles.blogTitle}>more coming soon..</h2>
             <p className={styles.blogSnippet}>
-              waiting for an exisitenial crisis to hit so I can reflect.
+              waiting for an exisitenial crisis to hit so I can reflect.☄️
             </p>
             <Link href="/blogs/blog2" className={styles.readMore}>read more →</Link>
           </div>

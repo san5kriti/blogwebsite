@@ -86,7 +86,7 @@ export default function Home() {
 
           <div className={styles.ghostContainer}>
             <Image
-              src="/me.png"
+              src="/catto.png"
               alt="Ghost Astronaut Mascot"
               width={500}
               height={500}
