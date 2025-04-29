@@ -60,9 +60,9 @@ export default function Blogs() {
           <IntroductionCard />
 
           <div className={styles.blogCard}>
-            <h2 className={styles.blogTitle}>Meta-Hybrid Quantum Optimization</h2>
+            <h2 className={styles.blogTitle}>more coming soon..</h2>
             <p className={styles.blogSnippet}>
-              A deep dive into blending classical heuristics and quantum-inspired algorithms to solve the TSP.
+              waiting for an exisitenial crisis to hit so I can reflect.
             </p>
             <Link href="/blogs/blog2" className={styles.readMore}>read more →</Link>
           </div>
