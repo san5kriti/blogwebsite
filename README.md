@@ -96,5 +96,19 @@ Thus, **Esoteric Daughter** was born — an ode to beautiful absurdity, to caffe
 > "Reality is negotiable. Coffee is not." ☕
 ---
 
-🔗 Connect with me:  
-[🌐 Website](https://sanskritishelke.com/) ・ [💼 LinkedIn](https://linkedin.com/in/sanskritishelke) ・ [📝 Medium](https://medium.com/@san5kriti) ・ [🎵 Spotify Podcast](https://open.spotify.com/show/5FbN4lYxZUKf6oTQiBFSe3)
+## 🌷 Connect With Me
+
+<p align="center">
+  <a href="https://sanskritishelke.com/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/%20Website-0a0616?style=for-the-badge&logo=Google-Chrome&logoColor=de7fa1&labelColor=0a0616" />
+  </a>
+  <a href="https://linkedin.com/in/sanskritishelke" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/%20LinkedIn-0a0616?style=for-the-badge&logo=Linkedin&logoColor=de7fa1&labelColor=0a0616" />
+  </a>
+  <a href="https://medium.com/@san5kriti" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/%20Medium-0a0616?style=for-the-badge&logo=Medium&logoColor=de7fa1&labelColor=0a0616" />
+  </a>
+  <a href="https://open.spotify.com/show/5FbN4lYxZUKf6oTQiBFSe3" target="_blank">
+    <img alt="Spotify" src="https://img.shields.io/badge/🎵%20Podcast-0a0616?style=for-the-badge&logo=Spotify&logoColor=de7fa1&labelColor=0a0616" />
+  </a>
+</p>
