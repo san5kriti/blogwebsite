@@ -16,27 +16,39 @@
 Built entirely from scratch with **Next.js 15**, **Framer Motion**, **TypeScript**, and a whole lot of **unhinged cosmic energy**.
 
 Here you’ll find:
-- 🪐 Mythology and Philosophy deep-dives
-- 🚀 Quantum and AI inspired ramblings
-- 🎡 Cosmic side projects and existential code-dumps
-- 💭 Raw, unfiltered, slightly chaotic storytelling
+- 🔖 Mythology and Philosophy deep-dives
+- 🔭 Quantum and AI inspired ramblings
+- 💗 Cosmic side projects and existential code-dumps
+- 🧠 Raw, unfiltered, slightly chaotic storytelling
 
 ---
 
-## 🛠 Built With
+## 👩🏻‍🏭🚀 Tech Stack
+<p align="left">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  </a>
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  </a>
+  <a href="https://nextjs.org/docs/pages/building-your-application/styling/css-modules" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS%20Modules-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Modules" />
+  </a>
+  <a href="https://react-icons.github.io/react-icons/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Icons" />
+  </a>
+</p>
 
-- [Next.js 15](https://nextjs.org/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Vercel](https://vercel.com/) (for deployment)
-- [CSS Modules](https://nextjs.org/docs/pages/building-your-application/styling/css-modules)
-- [React Icons](https://react-icons.github.io/react-icons/)
 
 ---
 
-## 🖼️ Live Website
-
-🌟 [Visit Esoteric Daughter →](https://esotericdaughter.vercel.app/)
+## 🩵 [Visit Esoteric Daughter →](https://esotericdaughter.vercel.app/)
 
 ---
 
