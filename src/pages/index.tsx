@@ -61,8 +61,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Blog Website</title>
-        <meta name="description" content="A sanctuary for cosmic hearts and secret dreams." />
+        <title> Blog Website </title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap" rel="stylesheet"></link>
@@ -79,8 +78,8 @@ export default function Home() {
         {/* ✨ Main Landing */}
         <main className={styles.main}>
           <div className={styles.titleSection}>
-            <h1 className={styles.title}>Esoteric</h1>
-            <h2 className={styles.subtitle}>daughter.</h2>
+            <h1 className={styles.title}>Blog</h1>
+            <h2 className={styles.subtitle}>Website.</h2>
             
           </div>
 
