@@ -1,25 +1,21 @@
 <p align="center">
-  <img width="600" src="https://github.com/user-attachments/assets/97fe9812-e0d2-4e10-84a6-fd1573e908cd" alt="Esoteric Daughter Screenshot">
+  <img width="600" src="https://github.com/user-attachments/assets/aae6ca7d-5425-41d9-92d0-bf11a19f3a3b" alt=" Screenshot">
 </p>
 
-<h1 align="center"> Esoteric Daughter 🧬💗🎀☕️ </h1>
-
-<p align="center">
-  A pixelated constellation of existential musings, cosmic side projects, and chaotic caffeinated dreams — handcrafted by Sanskriti Shelke.
-</p>
+<h1 align="center"> Personal Blog Website Template 🧬💗🎀☕️ </h1>
 
 ---
 
 ## 🌌 About
 
-**Esoteric Daughter** is a personal blog-verse where mythology, machine learning, metaphysical theories, and 4AM existential crises collide.  
-Built entirely from scratch with **Next.js 15**, **Framer Motion**, **TypeScript**, and a whole lot of **unhinged cosmic energy**.
+Curate your own personal blog-verse where you can modify code when you've fork this repo, edit styling and enjoy builing on this template!
+Built entirely from scratch with **Next.js 15**, **Framer Motion**, **TypeScript**.
 
 Here you’ll find:
-- 🔖 Mythology and Philosophy deep-dives
-- 🔭 Quantum and AI inspired ramblings
-- 💗 Cosmic side projects and existential code-dumps
-- 🧠 Raw, unfiltered, slightly chaotic storytelling
+- 🔖 Blog Cards
+- 🔭 About Section
+- 💗 Custom Made Aesthetic background with stars
+- 🧠 A place to explore your thoughts and share ideas 
 
 ---
 
@@ -57,9 +53,6 @@ Here you’ll find:
 -  **Social Media Integrations** – LinkedIn, Discord, Medium, Spotify, GitHub
 -  **100% Handcoded** – No templates, no drag-drop, built line-by-line with love 
 
----
-
-## 🩵 [Visit Esoteric Daughter →](https://esotericdaughter.vercel.app/)
 
 ---
 
@@ -76,27 +69,12 @@ src/
 ## 💖 License & Usage
 
 This project is open for creative inspiration!!
-You are welcome to **use the website structure or styling ideas** as a reference or a learning template.  
-However, **please do not directly copy or replicate** my personal blog content, writings, or brand identity.
-
->  **If you use this project as a template or inspiration, proper credit is required.**  
+You are welcome to **use the website structure or styling ideas** as a template.  
+However, **please do give proper credit**
 
 ---
 
-## 🌸 Motivation Behind Esoteric Daughter
-
-Hey, I'm **Sanskriti Shelke** — a caffeine-fueled creative who loves cats, existential philosophy, AI models, pixel art, mythology, and building dreamy side projects at 4AM.  
-**Esoteric Daughter** is my tiny corner of the internet where reality is optional, imagination is law, and metaphysical chaos is celebrated. 
-
-The internet is filled with perfect templates  but none of them ever truly *felt* like me.  
-I wanted a space that wasn't sterile, soulless, or corporate:  
-A pixelated, metaphysical constellation where **philosophy meets code**, **chaos meets creativity**, and **dreamers feel seen**.
-
-Thus, **Esoteric Daughter** was born, an ode to beautiful absurdity, to caffeinated 2AM ramblings, and to the cosmic chaos we all secretly hold inside.
-
----
-
-## 🌷 Connect With Me
+## 🌷 Connect With Me (For Collabs or Requests)
 
 <p align="center">
   <a href="https://sanskritishelke.com/" target="_blank">
