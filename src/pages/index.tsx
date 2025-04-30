@@ -61,7 +61,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Esoteric Daughter</title>
+        <title>Blog Website</title>
         <meta name="description" content="A sanctuary for cosmic hearts and secret dreams." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />

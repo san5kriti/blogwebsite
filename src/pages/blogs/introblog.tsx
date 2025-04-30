@@ -62,23 +62,15 @@ export default function IntroBlog() {
         <div className={styles.textContent}>
           <Link href="/#blogs" className={styles.backLink}>← back to blogs</Link>
 
-          <h1 className={styles.blogTitle}>Lore Dump</h1>
+          <h1 className={styles.blogTitle}>Blog Card 1</h1>
 
-          <p>
-            Hey, I'm <span className={styles.highlight}>Sanskriti</span>. I like cats, existentialism, and coffee.  
-            I build side projects at <b>4 AM</b> just for the sake of it and sometimes spiral headfirst into metaphysical concepts.
-            Like — tell me you didn't know <span className={styles.highlight}>morality was subjective</span>, or that <span className={styles.highlight}>quantum reality loop jumping</span> might be real.
-          </p>
+      
 
           <p>
             I've always wanted to start my own blog, and I used to keep a diary — until I realized it didn’t even help <span className={styles.highlight}>Kafka</span> that much.  
             Nonetheless, <b>writing remains a sacred rebellion.</b>
           </p>
 
-          <p>
-            Eventually, I got sick of scavenging through sad WordPress templates,  
-            so I did the rational thing: <b>built my own website in a single, sleep-deprived five-hour sitting.</b>
-          </p>
 
           <p>
             This is real, I promise — <span className={styles.highlight}>no AI-written monologues</span> here.  
@@ -114,13 +106,11 @@ export default function IntroBlog() {
 
             {/* 🌐 Social Icons */}
             <div className={styles.socialIcons}>
-              <a href="https://linkedin.com/in/sanskritishelke" target="_blank" className={styles.iconLink}><FaLinkedin /></a>
-              <a href="https://discordapp.com/users/san5kriti" target="_blank" className={styles.iconLink}><FaDiscord /></a>
-              <a href="https://medium.com/@san5kriti" target="_blank" className={styles.iconLink}><FaMedium /></a>
-              <a href="https://github.com/san5kriti/" target="_blank" className={styles.iconLink}><FaGithub /></a>
-              <a href="https://sanskritishelke.com/" target="_blank" className={styles.iconLink}><FaChrome /></a>
-              <a href="https://open.spotify.com/show/5FbN4lYxZUKf6oTQiBFSe3" target="_blank" className={styles.iconLink}><FaSpotify /></a>
-              <a href="https://buymeacoffee.com/san5kriti" target="_blank" className={styles.iconLink}><FaCoffee /></a>
+              <a href="enter link " target="_blank" className={styles.iconLink}><FaLinkedin /></a>
+              <a href="enter link" target="_blank" className={styles.iconLink}><FaDiscord /></a>
+              <a href="enter link" target="_blank" className={styles.iconLink}><FaMedium /></a>
+              <a href="enter link" target="_blank" className={styles.iconLink}><FaGithub /></a>
+       
             </div>
 
             {/* ✨ Favourites Section */}

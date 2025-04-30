@@ -27,7 +27,7 @@ export default function About() {
     }));
 
     function animate() {
-      if (!ctx) return; // 🪄 THIS was missing before
+      if (!ctx) return; // 
       ctx.clearRect(0, 0, canvas.width, canvas.height);
       stars.forEach((star) => {
         ctx.beginPath();
@@ -70,16 +70,10 @@ export default function About() {
             <h1 className={styles.heading}>about 𖥔 ݁ ˖</h1>
 
             <p className={styles.description}>
-              Some people journal. I, being extra, built a pixelated wormhole to dump my metaphysical anxieties into.  
-              If you know me in real life — <span className={styles.highlight}>no you don't</span>.
+              
               <br /><br />
-              Welcome to <span className={styles.siteName}>Esoteric Daughter</span> — a cursed constellation where machine learning plays god, mythologies combust inside black holes, and quantum particles gaslight me at every opportunity.  
-              Here, Kafka, Camus, and Nietzsche run an underground fight club in my brain while my ceiling fan spins at 2AM, silently judging.  
-              Reality? A hoax. Logic? Optional. Meaning? A group project where nobody showed up.
-              <br /><br />
-              Expect caffeinated AI ramblings stitched together with pastel existential crises, mythological trauma dumped between API calls, and philosophical fistfights over whether free will was ever a real patch update.
-              <br /><br />
-              Bring your nihilism. Bring your coffee. Stay for the cosmic melodrama. ☕️
+              Welcome to <span className={styles.siteName}>'blog name'r</span> 
+              
             </p>
           </div>
 
